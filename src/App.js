@@ -43,7 +43,6 @@ function App() {
               <Cita key={cita.id} cita={cita} eliminarCita={eliminarCita} />
             ))}
           </div>
-          )
         </div>
       </div>
     </Fragment>
